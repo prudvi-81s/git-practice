@@ -27,5 +27,5 @@ CHECK_ROOT
 
 for package in $@ 
 do 
-    echo $package
+    echo $packages
 done
